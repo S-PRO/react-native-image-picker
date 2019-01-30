@@ -2,7 +2,7 @@
 <resources>
     <style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
         <!-- Used for the buttons -->
-        <item name="colorAccent">#61c3e7</item>
+        <item name="colorAccent">#1DA456</item>
         <!-- Used for the title and text -->
         <item name="android:textColorPrimary">@android:color/white</item>
         <!-- Used for the background -->
